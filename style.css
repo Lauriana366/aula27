@@ -1,0 +1,20 @@
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+h1{
+    text-align: center;
+
+}
+body{
+    flex-direction: column;
+    text-align: center;
+    display: flexbox;
+    min-height: 100vh;
+    background-color: rgba(145, 54, 136, 0.952);
+}
+.form-grupo{
+    margin-bottom: 15px;
+}
+
